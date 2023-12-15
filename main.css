@@ -1,4 +1,4 @@
-body {
+0
     max-width: 100%; /* stop horizontal scroll */
     height:auto!important;
     
@@ -17,12 +17,15 @@ body {
 html {
     overflow-x: hidden; /* stop horizontal scroll */
     height:auto!important;
+     
 }
 
 a {
     color: inherit;
     text-decoration: none;
 }
+
+
 
 @keyframes fadeInAnimation {
     0% {
@@ -75,4 +78,6 @@ h1.status {
     h1.status {
         font-size: 11.8181818182px;
     }
-}
+    
+
+
